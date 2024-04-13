@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: fit-content;
+    background-color: rgb(9, 7, 5);
+    opacity: 1; 
+
+  }
+
+
+h1{
+  text-shadow: 2px 2px 8px  rgb(7, 11, 237);
+  color: rgb(242, 243, 244);
+  background-color: rgb(6, 45, 70);
+  margin: 3px;
+  height: 80px;
+  text-align: left;
+  padding-top: 17px;
+  padding-left: 112px;
+  font-family: cursive;
+  
+  background-image: url(https://img.freepik.com/free-photo/flat-lay-different-types-pasta_23-2149224286.jpg?t=st=1710569540~exp=1710573140~hmac=912ab993cd9cd8d713f43a2723787da8e89289a4a0cdd92a834d1e704f481964&w=996);
+  
+}
+
+
+p{
+  text-shadow: 2px 2px 8px  rgb(253, 253, 255);
+  color: rgb(242, 243, 244);
+  height: 100px;
+  padding-top: 17px;
+  padding-left: 42px;
+  display: grid;
+  padding-top: 25px;
+  font-size: 23px;
+  font-weight: bold;
+  border-radius: 12px;
+  font-family: cursive;
+  background-color: rgb(6, 45, 70);
+ 
+  text-align: left;
+  color: rgb(15, 29, 156);
+  margin: 3px;
+  background-image: url(https://media.gettyimages.com/id/1312152389/photo/fresh-and-raw-vegetables-on-wooden-kitchen-table.jpg?s=612x612&w=gi&k=20&c=KVeYSWRGFEI0wYgJt73qU3Bbl0sGM0RuMBrCrNU0wxE=);
+  background-size: 100%;
+}
+
+h2{
+  text-shadow: 2px 2px 4px  rgb(29, 40, 61);
+  margin: 3px;
+  color: rgb(71, 9, 85);
+  font-stretch: ultra-condensed;
+  font-size: 25px;
+  background-image: url(https://img.freepik.com/free-photo/view-vegetable-slices_23-2149224258.jpg?t=st=1710539645~exp=1710543245~hmac=2f249c874294961e0f0e43e0aefdeb96984aa3b00c2f89e33a5a823aa409a5fd&w=996);
+}
+
+img{
+  height: 300px;
+  width: 350px;
+  border-radius: 20px;
+  margin: 20px;
+  border: 5px solid rgb(12, 49, 78);
+  
+  
+  
+}
+
+.holidayText{
+  display: flex;
+  font-size: 22px;
+  background-image: url(https://cdn.wallpapersafari.com/15/69/OFaIZD.jpg);
+  margin: 3px;
+  border-radius: 12px;
+  align-items: center;
+  background-position: fill;
+  font-family: cursive;
+  padding-right: 20px;
+  position: relative;
+  color: rgb(38, 62, 6);
+ 
+  
+}
+
+h7{
+
+  display: flex;
+  font-size: 22px;
+  height: 100px;
+  width: 700px;
+  background-color: rgba(20, 249, 222, 0);
+  align-items: center;
+  font-family: cursive;
+  color: rgb(0, 0, 0);
+
+}
+
+figcaption{
+  color: red;
+  background-color: rgb(244, 244, 244);
+  text-align: center;
+  
+  
+}
+
+.footer{
+  color: rgb(12, 4, 4);
+  background-color: rgb(244, 244, 244);
+  text-align: center;
+  margin: 1px;
+  border-radius: 15px;
+  padding-top: 15px;
+  background-image: url(https://cdn.wallpapersafari.com/15/69/OFaIZD.jpg);
+
+}
+
+.footer a{
+  color: rgb(239, 137, 14);
+ 
+}
+
+.holidayText .subject{
+  color: aqua;
+}
+
+h6{
+  color: rgb(252, 248, 248);
+  display: fles;
+  position: relative;
+  bottom: 140px;
+  left: 400px;
+  margin: 20px;
+  height: 40px;
+  width: 740px;
+  font-size: 18px;
+  border-radius: 12px;
+  text-align: center;
+  padding-top: 5px;
+  background-color: rgb(9, 80, 85);
+}
+
+
+
+
+
+
+
+
+

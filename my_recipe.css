@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: fit-content;
+
+}
+
+
+h1{
+    color: white;
+    position: relative;
+    left: 50%;
+}
+
+video{
+   position: relative;
+   height: 600px;
+   right: 8px;
+   z-index: -1;
+   width: 100vw;
+   object-fit: fill;
+   z-index: gre;
+}
+
+.veg{
+    position: relative;
+    left: 800px;
+    bottom: 500px;
+}
+
+
+.meat img{
+  position: relative;
+  width: 180px;
+  left: 750px;
+  bottom: 600px;
+  border-radius: 30px;
+  display: flex;
+ 
+}
+
+.african img{
+    position: relative;
+    width: 180px;
+    height: 120px;
+    left: 750px;
+    bottom: 570px;
+    border-radius: 30px;
+    display: flex;
+
+  }
+
+.veg img{
+    position: relative;
+    width: 180px;
+    height: 120px;
+    left: 190px;
+    bottom: 380px;
+    border-radius: 30px;
+    display: flex;
+
+  }
+
+.italian img{
+    position: relative;
+    width: 180px;
+    height: 120px;
+    left: 990px;
+    bottom: 850px;
+    border-radius: 30px;
+    display: block;
+    display: flex;
+  }
+
+  div{
+    height: 10px;
+    width: fit-content;
+    height: min-content;
+    
+  }
+
+
+.meat figcaption{
+    position: relative;
+    left: 600px;
+    font-family: Lucida;
+    bottom: 590px;
+    color: rgb(244, 245, 245);
+    margin-left: 100%;
+
+}
+
+.african figcaption{
+    position: relative;
+    left: 625px;
+    font-family: Lucida;
+    bottom: 560px;
+    color: rgb(244, 245, 245);
+    margin-left: 100%;
+  
+}
+
+.italian figcaption{
+    position: relative;
+    left: 880px;
+    font-family: Lucida;
+    bottom: 840px;
+    color: rgb(245, 248, 245);
+    margin-left: 100%;
+  
+}
+
+.veg figcaption{
+    position: relative;
+    left: 50px;
+    font-family: Lucida;
+    bottom: 370px;
+    color: rgb(244, 245, 245);
+    margin-left: 100%;
+   
+}
+
+
+
+.main  {
+    position: relative;
+    top: 90px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
