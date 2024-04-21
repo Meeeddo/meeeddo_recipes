@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  height: fit-content;
+  
 }
 
 body{
@@ -10,8 +10,14 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   align-items: center;
+  
 }
 
+
+.all{
+  position: absolute;
+  top: 40px;
+}
 
 
 h1{
@@ -197,8 +203,16 @@ a:active {
     body{
       background-image: url('UNIQUE\ RECIPES.png');
       background-repeat: no-repeat;
-      height: 168vh;
+      height: 88vh;
       width: 100%;
+    }
+
+    body{
+      background-image: url('UNIQUE\ RECIPES.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      align-items: center;
+      
     }
   
     h1{
