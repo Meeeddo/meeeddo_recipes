@@ -217,8 +217,8 @@ a:active {
   
     h1{
       position: relative;
-      text-align: left;
-      font-size: 35px;
+      text-align: center;
+      font-size: 30px;
       color: rgb(247, 242, 244);
       border-radius: 25px;
       border-width: 15px;
