@@ -175,6 +175,9 @@ h3{
   border-radius: 10px;
 }
 
+a{
+  color: white;
+}
 
 a:visited {
   color: rgb(243, 237, 239);
