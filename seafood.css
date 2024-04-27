@@ -120,7 +120,7 @@ h6{
     font-size: 25px;
     height: 80px;
     
-    font-family: cursive;  
+    font-family: verdana;  
   }
 
   img{
@@ -141,7 +141,7 @@ h6{
     font-size: 10px;
     background-color: rgb(250, 248, 245);
     border-radius: 12px;
-    font-family: cursive;
+    font-family: Verdana;
     color: rgb(8, 8, 7);
     height: 400px;
     padding-left: 15px;
@@ -172,7 +172,7 @@ h6{
     width: 350px;
     background-color: rgba(240, 248, 255, 0);
     padding-left: 0px;
-    font-family: cursive;
+    font-family: verdana;
     color: black;
   
   }
