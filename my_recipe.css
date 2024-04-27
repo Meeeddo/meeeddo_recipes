@@ -14,10 +14,6 @@ body{
 }
 
 
-.all{
-  position: absolute;
-  top: 40px;
-}
 
 
 h1{
@@ -170,6 +166,13 @@ h3{
   border-radius: 10px;
 }
 
+
+
+.footer a{
+  color: rgb(253, 251, 249);
+ 
+}
+
 .africaImage figcaption{
   font-size: 20px;
   position: absolute;
@@ -198,22 +201,17 @@ a:active {
 }
 
 
-@media screen and (max-width: 599px){
-  
-    body{
+@media screen and (max-width: 700px){
+      
+      body{
       background-image: url('UNIQUE\ RECIPES.png');
       background-repeat: no-repeat;
-      height: 88vh;
-      width: 100%;
-    }
-
-    body{
-      background-image: url('UNIQUE\ RECIPES.png');
-      background-size: cover;
-      background-repeat: no-repeat;
+      height: 120vh;
       align-items: center;
       
     }
+
+    
   
     h1{
       position: relative;
@@ -236,7 +234,8 @@ a:active {
       border-radius: 20px;
       border-style: ridge;
       border-bottom-style: double;
-      color: rgb(89, 4, 97);
+      color: rgb(250, 250, 250);
+      background-color: black;
       border-width: 9px;
     }
     .meatImage img{
@@ -248,7 +247,8 @@ a:active {
       border-radius: 20px;
       border-style: ridge;
       border-bottom-style: double;
-      color: rgb(89, 4, 97);
+      color: rgb(250, 250, 250);
+      background-color: black;
       border-width: 9px;
     }
     .seafoodImage img{
@@ -260,7 +260,8 @@ a:active {
       border-radius: 20px;
       border-style: ridge;
       border-bottom-style: double;
-      color: rgb(89, 4, 97);
+      color: rgb(252, 252, 252);
+      background-color: black;
       border-width: 9px;
     }
     .burgerImage img{
@@ -272,7 +273,8 @@ a:active {
       border-radius: 20px;
       border-style: ridge;
       border-bottom-style: double;
-      color: rgb(89, 4, 97);
+      color: rgb(254, 251, 254);
+      background-color: black;
       border-width: 9px;  
     }
     .vegImage img{
@@ -284,7 +286,8 @@ a:active {
       border-radius: 20px;
       border-style: ridge;
       border-bottom-style: double;
-      color: rgb(89, 4, 97);
+      color: rgb(251, 251, 251);
+      background-color: black;
       border-width: 9px;
     }
     .africaImage img{
@@ -296,7 +299,8 @@ a:active {
       border-radius: 20px;
       border-style: ridge;
       border-bottom-style: double;
-      color: rgb(89, 4, 97);
+      color: rgb(255, 254, 255);
+      background-color: black;
       border-width: 9px; 
     }
 
@@ -363,6 +367,22 @@ a:active {
       font-weight: bold;
       font-family: Tahoma;
       border-radius: 10px;
+    }
+
+    a{
+      color: white;
+    }
+    
+    a:visited {
+      color: rgb(243, 237, 239);
+    }
+    
+    a:hover {
+      color: rgb(46, 252, 221);
+    }
+    
+    a:active {
+      color: rgb(28, 159, 240);
     }
 
   }
